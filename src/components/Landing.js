@@ -1,9 +1,13 @@
 import React from 'react';
+import deejay from './deejay.jpg';
+import './landing.css';
 
 const Landing = () => (
   <section className="landing">
-    <h1 className="hero-title">Turn the music up!</h1>
-
+    <section className="house-music">
+      <img src={deejay} alt={"deejay"} height="500" width="500" />
+      <h1 className="hero-title">Turn the music up!</h1>
+    </section>  
     <section className="selling-points">
       <div className="point">
         <h2 className="point-title"> Choose your music</h2>

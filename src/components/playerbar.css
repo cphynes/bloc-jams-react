@@ -1,0 +1,39 @@
+#buttons {
+  margin-top: 30px;
+  margin-left: -750px;
+}
+
+#previous {
+  height: 30px;
+  width: 30px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 25px;
+  color: grey;
+}
+
+#play-pause {
+  height: 30px;
+  width: 30px;
+  margin: 5px 5px 5px 5px;
+  color: grey;
+}
+
+#next {
+  height: 30px;
+  width: 30px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 25px;
+  color: grey;
+}
+
+#time-control {
+  position: absolute;
+  margin-top: 40px;
+  left: 50px;
+}
+
+#volume-control {
+  position: absolute;
+  margin-top: 40px;
+  right: 800px;
+}
