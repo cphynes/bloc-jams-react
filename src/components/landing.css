@@ -1,0 +1,36 @@
+.deejay{
+  margin-right: 700px;
+}
+
+.deejay img {
+  margin-top: 20px;
+  border: 1px solid grey;
+}
+
+.hero-title {
+  font-size: 100px;
+  font-family: 'sans-serif', serif;
+  color: grey;
+  margin-top: 400px;
+  text-shadow: 5px  5px  0   black;
+}
+
+.selling-points {
+  float: center;
+  margin-top: 350px;
+  margin-right: 100px;
+}
+
+.point {
+  padding: 10px 5px 10px  5px;
+}
+
+.point-title {
+  font-family: 'sans-serif', serif;
+  font-size: 30px;
+  text-shadow: 2px  2px  0   grey;
+}
+
+  .point-description {
+    font-weight: bold;
+  }

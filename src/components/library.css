@@ -1,0 +1,43 @@
+.col-2-2 {
+  width: 50%;
+  float: left;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 40px;
+  border: 1px solid grey;
+}
+
+.album-info {
+  margin-top: 25px;
+}
+
+#album-title {
+  text-decoration: none;
+  font-family: 'sans-serif', serif;
+  font-size: 40px;
+  color: grey;
+}
+
+#album-title:hover {
+  color: purple;
+}
+
+#album-title:active {
+  color: purple;
+}
+
+#album-artist {
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  text-shadow: 1px  1px  0   grey;
+}
+
+#album-length {
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  text-shadow: 1px  1px  0   grey,
+}
